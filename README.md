@@ -1,16 +1,24 @@
-## Hi there 👋
+# Alexey — AI Systems Engineer
 
-<!--
-**afischh/afischh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build autonomous AI agents, operator systems, and automation pipelines.
 
-Here are some ideas to get you started:
+## Focus
+- AI agents
+- Agent ↔ Operator workflows
+- Telegram / API automation
+- Python / Go backends
+- AI ops and runtime tooling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- [telegram-ai-operator](https://github.com/afischh/telegram-ai-operator)
+- [ai-agent-mcp-server](https://github.com/afischh/ai-agent-mcp-server)
+- [agent-runtime-lite](https://github.com/afischh/agent-runtime-lite)
+
+## Open to
+- short-term projects
+- startup collaborations
+- AI systems / automation work
+
+## Contact
+- X: coming soon
+- Telegram: available on request
